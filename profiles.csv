@@ -1,0 +1,4 @@
+profile_name|api_key|base_url|default_model
+alan|sk-xxxx|https://api.bjlab.tk/v1|deepseek-v4-flash
+architect|sk-xxxxx|https://api.bjlab.tk/v1|mint-glm-5.2
+researcher|sk-xxxxx|https://api.bjlab.tk/v1|qwen3.7-plus
