@@ -3,5 +3,5 @@
 ```
 临时测试/自动化脚本：直接用 hermes <command> --profile <profile_name>。
 
-高频使用的 Profile：运行 hermes profile alias set <profile> <alias> 设置别名使用。
+高频使用的 Profile：运行 hermes profile alias --name <profile> <alias> 设置别名使用。
 ```
